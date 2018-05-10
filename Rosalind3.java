@@ -25,7 +25,7 @@ public class Rosalind3{
 	transcribe(DNA);
 	return RNA;
     }
-
+ 
     //main
 
     public static void main (String[]args){
